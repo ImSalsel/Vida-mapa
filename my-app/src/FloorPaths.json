@@ -1,0 +1,90 @@
+{
+    "floor1": [
+        {
+            "name": "Planeta",
+            "d": "M33,87 L140,87 L140,265 L33,265 Z",
+            "strokeColor": "blue",
+            "type": "expozice",
+            "info": "Nejdřív rozpoutejte tornádo a pokuste se ustát zemětřesení, pak si v rotující místnosti užijte účinky odstředivé síly a pohrajte si s oceánem v lahvi."
+        },
+        {
+            "name": "Civilizace",
+            "d": "M140,87 L245,87 L245,265 L140,265 Z",
+            "strokeColor": "orange",
+            "type": "expozice",
+            "info": "Rozjeďte ledničku na lidský pohon, postavte z lega vlastní střed Brna, napište svá přání na zeď naděje a v hlukové místnosti zkuste překřičet tryskáč."
+        },
+        {
+            "name": "Člověk",
+            "d": "M245,87 L322,87 L322,265 L245,265 Z",
+            "strokeColor": "magenta",
+            "type": "expozice",
+            "info": "V obřím srdci se zaposlouchejte do vlastního tepu, vyzkoušejte si, jak namáhavá je činnost tlustého střeva a pokuste se masáží srdce zachránit lidský život."
+        },
+        {
+            "name": "Mikrosvět",
+            "d": "M324,100 L379,100 L379,265 L324,265 Z",
+            "strokeColor": "purple",
+            "type": "expozice",
+            "info": "Postavte si magnetickou sochu, užijte si pohled na elektrický oblouk, který stoupá po žebříku a prozkoumejte svět pod mikroskopem."
+        },
+        {
+            "name": "Dětské science centrum",
+            "d": "M33,40 L250,40 L250,87 L33,87 Z",
+            "strokeColor": "green",
+            "type": "expozice",
+            "info": "Na nejmenší návštěvníky tu čeká dopravní hřiště, kuličková dráha, archeologické pískoviště, obří piano, oblíbený tobogán i vodní hrátky s mlýnky."
+        },
+        {
+            "name": "Bastlirna",
+            "d": "M340,42 L379,42 L379,87 L340,87 Z",
+            "strokeColor": "brown",
+            "type": "bastlirna",
+            "info": "Informace o Bastlírně"
+        }
+    ],
+    "floor2": [
+        {
+            "name": "Bufet",
+            "d": "M13,45 L116,45 L116,80 L13,80 Z",
+            "strokeColor": "blue",
+            "type": "bufet",
+            "info": "Bufet s občestvením"
+        },
+        {
+            "name": "Dočasná Expozice",
+            "d": "M13,87 L150,87 L150,255 L13,255 Z",
+            "strokeColor": "orange",
+            "type": "expozice",
+            "info": "Informace dočasné expozici"
+        },
+        {
+            "name": "Dočasné Exponáty",
+            "d": "M309.5,225 m-0,0 a10,10 0 1,0 23,0 a10,10 0 1,0 -23,0",
+            "strokeColor": "magenta",
+            "type": "exponát",
+            "info": "Informace o dočasných exponátech"
+        },
+        {
+            "name": "Dočasné Exponáty",
+            "d": "M309,173 m-0,0 a10,10 0 1,0 23,0 a10,10 0 1,0 -23,0",
+            "strokeColor": "magenta",
+            "type": "exponát",
+            "info": "Informace o dočasných exponátech"
+        },
+        {
+            "name": "Dočasné Exponáty",
+            "d": "M308,123 m-0,0 a10,10 0 1,0 23,0 a10,10 0 1,0 -23,0",
+            "strokeColor": "magenta",
+            "type": "exponát",
+            "info": "Informace o dočasných exponátech"
+        },
+        {
+            "name": "Dočasné Exponáty",
+            "d": "M308.5,74.5 m-0,0 a10,10 0 1,0 23,0 a10,10 0 1,0 -23,0",
+            "strokeColor": "magenta",
+            "type": "exponát",
+            "info": "Informace o dočasných exponátech"
+        }
+    ]
+}
